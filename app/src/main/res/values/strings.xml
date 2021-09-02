@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ConectaEdu</string>
+    <string name="digite_email">Digite seu e-mail</string>
+    <string name="digite_senha">Digite sua senha</string>
+    <string name="redigite_senha">Repita sua senha</string>
+    <string name="botao_logar">Logar</string>
+    <string name="nao_tem_conta">Cadastre-se clicando aqui.</string>
+    <string name="digite_nome">Digite seu nome</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+    <string name="permissao_negada">Permissões Negadas</string>
+    <string name="permissao_negada_mensagem">Para usar o aplicativo é necessário aceitar todas as permissões solicitadas.</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="novo_grupo">Novo grupo</string>
+    <string name="descricao_criar_grupo">Defina o ícone e nome do grupo</string>
+    <string name="notificacao_mensagens">Você tem novas mensagens.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ajustes_activity">Ajustes</string>
+    <string name="nome_usuario">Nome do Usuário</string>
+    <string name="texto_info_usuario">Esse é o nome que ficará visível para os seus contatos.</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="title_activity_grupo">GrupoActivity</string>
+    <string name="title_activity_cadastro_grupo">CadastroGrupoActivity</string>
+
+    <!-- texto de validações cadastro-->
+    <string name="invalid_email">Forneça um e-mail válido.</string>
+    <string name="invalid_password">Formato de senha inválido.</string>
+    <string name="invalid_revalid_password">As senhas devem ser iguais!</string>
+    <string name="forgot_my_password">Esqueci minha senha.</string>
+    <string name="sign_in_going">Entrando&#8230;</string>
+    <string name="or">ou</string>
+    <string name="sign_up">Criar minha conta</string>
+    <string name="privacy_policy">Políticas de privacidade</string>
+    <string name="invalid_login">Dados de login inválidos.</string>
+    <string name="title_activity_noticia">NoticiaActivity</string>
+</resources>
